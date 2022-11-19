@@ -3465,9 +3465,6 @@ Created using IcoMoon - icomoon.io
     margin-top: 30px;
     margin-bottom: 0px;
     text-align: center; }
-  .card-body {
-
-  }
   .card-signup .card-body {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -3501,6 +3498,8 @@ Created using IcoMoon - icomoon.io
     padding-right: 0; }
 
 .footer {
+  border-top: 1px solid #3b1564d4;
+  margin-top: 25px;
   padding: 24px 0; }
   .footer.footer-default {
     background-color: #f2f2f2; }
@@ -5206,6 +5205,7 @@ Created using IcoMoon - icomoon.io
 
 /* Experience Style */
 .cc-experience .cc-experience-header {
+  padding-top: 60px;
   padding-right: 0;
   text-align: center;
   color: #fff;
@@ -5225,7 +5225,6 @@ Created using IcoMoon - icomoon.io
   padding: 40px; }
 
 .cc-reference img {
-  height: 120px;
   width: auto; }
 
 .cc-reference .h5 {
